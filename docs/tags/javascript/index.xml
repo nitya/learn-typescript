@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Learn TypeScript</title>
+    <link>https://nitya.github.io/learn-typescript/tags/javascript/</link>
+    <description>Recent content in javascript on Learn TypeScript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 11:51:18 -0500</lastBuildDate><atom:link href="https://nitya.github.io/learn-typescript/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#001: Let&#39;s Learn TypeScript</title>
+      <link>https://nitya.github.io/learn-typescript/001-kickoff/</link>
+      <pubDate>Thu, 11 Nov 2021 11:51:18 -0500</pubDate>
+      
+      <guid>https://nitya.github.io/learn-typescript/001-kickoff/</guid>
+      <description>One of my 2021 goals is to get more proficient with using TypeScript. I started this blog to document my learning journey and I hope you&amp;rsquo;ll join me.
+Why Learn TypeScript? According to the TIOBE Index JavaScript remains a popular programming language - but it is not a type-safe language, something that most modern programming languages support. TypeScript builds on JavaScript to add support for type annotations - and because it converts to JavaScript, TypeScript code can run anywhere that JavaScript currently does.</description>
+    </item>
+    
+  </channel>
+</rss>
