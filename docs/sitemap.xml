@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nitya.github.io/learn-typescript/</loc>
-    <lastmod>2021-11-11T11:51:31-05:00</lastmod>
-  </url><url>
-    <loc>https://nitya.github.io/learn-typescript/about/</loc>
-    <lastmod>2021-11-11T11:51:25-05:00</lastmod>
-  </url><url>
-    <loc>https://nitya.github.io/learn-typescript/001-kickoff/</loc>
-    <lastmod>2021-11-11T11:51:18-05:00</lastmod>
+    <loc>https://nitya.github.io/learn-typescript/002-getting-started/</loc>
+    <lastmod>2021-11-11T14:17:25-05:00</lastmod>
   </url><url>
     <loc>https://nitya.github.io/learn-typescript/tags/general/</loc>
-    <lastmod>2021-11-11T11:51:18-05:00</lastmod>
+    <lastmod>2021-11-11T14:17:25-05:00</lastmod>
   </url><url>
     <loc>https://nitya.github.io/learn-typescript/tags/javascript/</loc>
-    <lastmod>2021-11-11T11:51:18-05:00</lastmod>
+    <lastmod>2021-11-11T14:17:25-05:00</lastmod>
   </url><url>
     <loc>https://nitya.github.io/learn-typescript/post/</loc>
-    <lastmod>2021-11-11T11:51:18-05:00</lastmod>
+    <lastmod>2021-11-11T14:17:25-05:00</lastmod>
   </url><url>
     <loc>https://nitya.github.io/learn-typescript/tags/</loc>
-    <lastmod>2021-11-11T11:51:18-05:00</lastmod>
+    <lastmod>2021-11-11T14:17:25-05:00</lastmod>
   </url><url>
     <loc>https://nitya.github.io/learn-typescript/tags/typescript/</loc>
-    <lastmod>2021-11-11T11:51:18-05:00</lastmod>
+    <lastmod>2021-11-11T14:17:25-05:00</lastmod>
+  </url><url>
+    <loc>https://nitya.github.io/learn-typescript/</loc>
+    <lastmod>2021-11-11T14:16:53-05:00</lastmod>
+  </url><url>
+    <loc>https://nitya.github.io/learn-typescript/about/</loc>
+    <lastmod>2021-11-11T14:16:53-05:00</lastmod>
+  </url><url>
+    <loc>https://nitya.github.io/learn-typescript/001-kickoff/</loc>
+    <lastmod>2021-11-11T14:16:53-05:00</lastmod>
   </url>
 </urlset>

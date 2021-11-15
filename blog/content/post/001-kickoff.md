@@ -19,6 +19,8 @@ TypeScript is gaining popularity among developers. It [entered the TIOBE Index a
 
 In my case, I am going to start my journey by completing this [free learning path](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) that teaches you syntax and semantics in a 6-hr, 8-module series. The [TypeScript Documentation](https://www.typescriptlang.org/docs/) site also has a good _Getting Started_ section with quickstart introductions for diverse backgrounds.
 
-Other resources that have been recommended to me include: [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html), the open-source [Typescript Book](https://github.com/basarat/typescript-book) and the [Programming TypeScript](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/) book from O'Reilly.
+Other resources that have been recommended to me include: [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html), the open-source [Typescript Book](https://github.com/basarat/typescript-book) and the [Programming TypeScript](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/) book from O'Reilly. 
+
+Track the [About](../about) page for an up-to-date list of resources including articles, books and talks that I've found valuable in a learning journey.
 
 Until the next post!

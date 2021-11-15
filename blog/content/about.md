@@ -16,6 +16,8 @@ While my initial exploration will be more random, I hope to organize posts into 
 
 These are the resources I am actively using or that have been recommended to me by folks knowledgeable in the space. I will keep this updated as I go.
 
+**READ**
+
 1. [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) - Learning Path
 2. [TypeScript Documentation](https://www.typescriptlang.org/docs/) - Website
 3. [Bootstrap a new TS Project](https://www.typescriptlang.org/docs/bootstrap) - Website
@@ -23,3 +25,8 @@ These are the resources I am actively using or that have been recommended to me 
 5. [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Website
 6. [Programming TypeScript - by Boris Cherny](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/) - O'Reilly, May 2019
 
+**WATCH**
+
+* Nov 2021 | [How the TypeScript Compiler Compiles](https://www.youtube.com/watch?v=X8k_4tZ16qU) - Orta Therox
+* Nov 2020 | [TSConf Keynote](https://www.youtube.com/watch?v=IGw2MRI0YV8) - Anders Hejlsberg
+* Jan 2017 | [Modern Compiler Construction](https://www.youtube.com/watch?v=wSdV1M7n4gQ) - Anders Hejlsberg (ch9)

@@ -6,7 +6,18 @@
     <description>Recent content in typescript on Learn TypeScript</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Nov 2021 11:51:18 -0500</lastBuildDate><atom:link href="https://nitya.github.io/learn-typescript/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 14:17:25 -0500</lastBuildDate><atom:link href="https://nitya.github.io/learn-typescript/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>002 Getting Started</title>
+      <link>https://nitya.github.io/learn-typescript/002-getting-started/</link>
+      <pubDate>Thu, 11 Nov 2021 14:17:25 -0500</pubDate>
+      
+      <guid>https://nitya.github.io/learn-typescript/002-getting-started/</guid>
+      <description>Getting Started    I thought I&amp;rsquo;d kick off my journey by checking out the default Getting Started section of the TypeScript docs - and looking specifically at the tooling and TS-for-JS sections.
+Some quick notes below:
+ TypeScript is a TYPED superset of JavaScript - JavaScript code will work in TypeScript if the syntax is right.  </description>
+    </item>
+    
     <item>
       <title>#001: Let&#39;s Learn TypeScript</title>
       <link>https://nitya.github.io/learn-typescript/001-kickoff/</link>
